@@ -1,0 +1,114 @@
+@media (max-width: 1399px) {
+    .padding-title{
+        padding: 40px 70px;
+    }
+}
+@media (max-width: 1199px) {
+
+    #title{
+        text-align: center;
+    }
+    .title-image{
+         position: static;
+         transform: rotate(0);
+    }
+    h1{
+        font-size: 50px;
+    }
+    h3{
+        font-size: 2.5rem;
+    }
+    .pricing-text{
+        font-size: 2rem;
+    }
+    .padd-faq{
+        font-size: 2.0rem;
+    }
+    .padding-about{
+        padding: 70px 20px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    
+}
+@media only screen and (max-width: 600px) {
+    .padding-title{
+        padding: 20px 40px;
+    }
+    h1{
+        font-size: 20px;
+    }
+    p{
+        font-size: 14px;
+    }
+    h2,h3,h5{
+        font-size: 20px;
+    }
+    .rsp{
+        width: 260px;
+    }
+    .nav-link{
+        font-size: 1rem;
+    }
+    .navbar-brand{
+        font-size: 2rem;
+    }
+    .title-image{
+        width: 280px;
+    }
+    em{
+        font-size: 14px;
+    }
+    .testimonial-img{
+        width: 50px;
+    }
+  #pricing{
+    padding: 60px;
+  }
+  .feature-text{
+    font-size: 20px;
+  }
+  .margin{
+    margin-left: 1.0rem;
+  } 
+  .spn{
+    font-size: 2.0rem;
+  } 
+  .questions{
+    font-size: 16px;
+  }
+  .cont-text{
+    padding: 5px 10px;
+  }
+  .padding-faqs{
+    font-size: 18px;
+    padding-top:25px;
+    padding-bottom: 50px;
+  }
+.padd-faq{
+    font-size: 19px;
+}
+.padding-about{
+    padding: 10px 20px ;
+}
+}
+@media only screen and (max-width: 365px){
+    .padding-title{
+        padding: 10px 20px;
+    }
+    .title-image{
+        width: 240px;
+    }
+    .pricing-text {
+        font-size: 1.5rem;
+    }
+    #pricing{
+        padding: 60px 20px
+    }
+    .padd{
+        padding: 10px 20px ;
+    }
+    .padding-about{
+        padding: 10px 6px;
+    }
+}
